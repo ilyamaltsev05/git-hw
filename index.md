@@ -7,4 +7,4 @@ layout: default
 
 # Контакты
 - email: <malcevilya5@gmail.com>
-- telegram: [<@luuusername>](<https://t.me/luuusername>)
+- telegram: [@luuusername](<https://t.me/luuusername>)
